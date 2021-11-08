@@ -1,6 +1,6 @@
 # presentations
 List of public talks and presentations
-
+* [DoK Community #28- Getting Started Contributing to Kubernetes](https://www.meetup.com/Data-on-Kubernetes-community/events/275961632/) | [YouTube link](https://www.youtube.com/watch?v=5Rxot4V0m50)
 
 # Talk shows & podcasts
 * [Kubernetes 1.22, with Savitha Raghunathan](https://kubernetespodcast.com/episode/157-kubernetes-1.22/)
