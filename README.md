@@ -11,3 +11,4 @@
 * [Cloud Tech Tuesdays: Kubernetes 1.22](https://www.youtube.com/watch?v=wKbe0T2E0QQ)
 * [College to Cloud Native KubeCon NA 2021](https://www.twitch.tv/videos/1174685050)
 * [KBE Insider - Episode 5](https://www.youtube.com/watch?v=egXfohlN-4A)
+* [Stickers on the laptop](https://anchor.fm/bartholomew-dobbyn-farrell/episodes/KubeCon-and-Stickers-with-Divya-Mohan-and-Savitha-Raghunathan-e1idd3p)
