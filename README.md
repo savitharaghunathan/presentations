@@ -4,6 +4,11 @@
 * KubeCon 2021 EU [Get In Containerds, We’re Going Securing: Kubernetes SIG Security is Here!](https://www.youtube.com/watch?v=0_s6zkyRpME)
 * KubeCon 2021 NA [Panel Discussion: OSS101 - Introduction to Open Source for Students](https://www.youtube.com/watch?v=kH22wTwliCk)
 * KubeCon 2021 NA [Security Through Transparency: Kubernetes SIG Security Update](https://www.youtube.com/watch?v=O5Wy7zSigOU)
+* KubeCon 2022 EU [SIG Security Update: We Lift Together](https://youtu.be/ow2SkmWxLmU) 
+* KubeCon 2022 EU [Been There, Done That: Tales of Burnout from the Open Source World](https://youtu.be/UIU8qZWL3Io)
+* KubeCon 2022 EU [Panel Discussion: Navigating the CNCF Landscape, the Right Way](https://www.youtube.com/watch?v=u7vUA61sZI4)
+
+
 
 # Talk shows & podcasts
 * [Kubernetes 1.22, with Savitha Raghunathan](https://kubernetespodcast.com/episode/157-kubernetes-1.22/)
