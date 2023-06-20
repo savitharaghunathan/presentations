@@ -8,6 +8,7 @@
 * KubeCon 2022 EU [Been There, Done That: Tales of Burnout from the Open Source World](https://youtu.be/UIU8qZWL3Io)
 * KubeCon 2022 EU [Panel Discussion: Navigating the CNCF Landscape, the Right Way](https://www.youtube.com/watch?v=u7vUA61sZI4)
 * KubeCon 2022 NA [SIG Security: Empowerment through Autonomy](https://www.youtube.com/watch?v=8ouZx-hxols)
+* KubeCon 2023 EU [Nurturing Security Permaculture: Kubernetes SIG Security Update](https://youtu.be/kPdlHnfR4PE)
 
 
 
