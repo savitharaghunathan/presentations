@@ -19,3 +19,10 @@
 * [College to Cloud Native KubeCon NA 2021](https://www.twitch.tv/videos/1174685050)
 * [KBE Insider - Episode 5](https://www.youtube.com/watch?v=egXfohlN-4A)
 * [Stickers on the laptop](https://anchor.fm/bartholomew-dobbyn-farrell/episodes/KubeCon-and-Stickers-with-Divya-Mohan-and-Savitha-Raghunathan-e1idd3p)
+
+# Blogposts
+
+* https://www.cncf.io/blog/2023/05/23/modernize-legacy-applications-to-kubernetes-at-scale/
+* https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/
+* https://www.konveyor.io/blog/modernize-petclinic-to-k8s-using-konveyor/
+* https://kubebyexample.com/community/blog/konveyor-kbe-and-kubernetes-community
