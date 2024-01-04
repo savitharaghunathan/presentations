@@ -9,7 +9,7 @@
 * KubeCon 2022 EU [Panel Discussion: Navigating the CNCF Landscape, the Right Way](https://www.youtube.com/watch?v=u7vUA61sZI4)
 * KubeCon 2022 NA [SIG Security: Empowerment through Autonomy](https://www.youtube.com/watch?v=8ouZx-hxols)
 * KubeCon 2023 EU [Nurturing Security Permaculture: Kubernetes SIG Security Update](https://youtu.be/kPdlHnfR4PE)
-* The Linux Foundation Member Summit 2023 [The “Secret Sauce” to Your Digital Transformation: Build a Learning Community!]()
+* The Linux Foundation Member Summit 2023 [The “Secret Sauce” to Your Digital Transformation: Build a Learning Community!](https://github.com/savitharaghunathan/presentations/blob/main/The%20%E2%80%9CSecret%20Sauce%E2%80%9D%20to%20Your%20Digital%20Transformation%3A%20Build%20a%20Learning%20Community!/The%20%E2%80%9Csecret%20sauce%E2%80%9D%20to%20your%20digital%20transformation_%20build%20a%20learning%20community!%20(2)%20(1).pdf)
 * KubeCon 2023 NA [SIG Security: Unravelling the Kubernetes Security Audit Together](https://youtu.be/qTKEd8mcb1U)
 
 
