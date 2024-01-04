@@ -9,6 +9,8 @@
 * KubeCon 2022 EU [Panel Discussion: Navigating the CNCF Landscape, the Right Way](https://www.youtube.com/watch?v=u7vUA61sZI4)
 * KubeCon 2022 NA [SIG Security: Empowerment through Autonomy](https://www.youtube.com/watch?v=8ouZx-hxols)
 * KubeCon 2023 EU [Nurturing Security Permaculture: Kubernetes SIG Security Update](https://youtu.be/kPdlHnfR4PE)
+* The Linux Foundation Member Summit 2023 [The “Secret Sauce” to Your Digital Transformation: Build a Learning Community!]()
+* KubeCon 2023 NA [SIG Security: Unravelling the Kubernetes Security Audit Together](https://youtu.be/qTKEd8mcb1U)
 
 
 
@@ -19,6 +21,8 @@
 * [College to Cloud Native KubeCon NA 2021](https://www.twitch.tv/videos/1174685050)
 * [KBE Insider - Episode 5](https://www.youtube.com/watch?v=egXfohlN-4A)
 * [Stickers on the laptop](https://anchor.fm/bartholomew-dobbyn-farrell/episodes/KubeCon-and-Stickers-with-Divya-Mohan-and-Savitha-Raghunathan-e1idd3p)
+* [KBE Insider - Episode 20](https://youtu.be/bti0Jo9fEE0)
+* [KBE Insider - Episode 24](https://youtu.be/Rgrbi3MIsCg)
 
 # Blogposts
 
@@ -26,3 +30,4 @@
 * https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/
 * https://www.konveyor.io/blog/modernize-petclinic-to-k8s-using-konveyor/
 * https://kubebyexample.com/community/blog/konveyor-kbe-and-kubernetes-community
+* https://www.konveyor.io/blog/one-year-cncf-sandbox-konveyor-reflective-journey/ 
