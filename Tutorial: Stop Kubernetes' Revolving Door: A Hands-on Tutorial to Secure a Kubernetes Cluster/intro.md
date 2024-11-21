@@ -1,0 +1,5 @@
+# Abstract
+Out-of-the-box, upstream Kubernetes is not secure by default. This tutorial will walk through the official/upstream Kubernetes Security Checklist to set up a cluster securely. The tutorial starts with an introduction to the critical security considerations for Kubernetes environments. Participants will then embark on a guided journey through practical exercises designed to implement security best practices within Kubernetes clusters. Attendees will gain firsthand experience in aspects such as authentication, authorization, network policies, pod security, and more, providing participants with a comprehensive understanding of Kubernetes security principles and how to implement them. This will equip them with the knowledge and skills to effectively secure their clusters. Whether you're new to Kubernetes security or seeking to enhance your expertise, this tutorial offers valuable insights and hands-on experience to strengthen your Kubernetes clusters against potential threats.
+
+# Link to repo
+[Hands-on](https://github.com/cloudnativeessentials/kubecon-na-2024-stop-k8s-revolving-door)
