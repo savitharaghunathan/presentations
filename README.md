@@ -13,8 +13,11 @@
 * KubeCon 2023 NA [SIG Security: Unravelling the Kubernetes Security Audit Together](https://youtu.be/qTKEd8mcb1U)
 * DevConf US 2024 [Modernization 101: A Beginner's Guide to Application Modernization and Methodology](https://youtu.be/ic5WnbYVTto)
 * DevConf US 2024 [Stop Kubernetes' Revolving Door: A Hands-On Workshop to Secure a Kubernetes Cluster](https://github.com/savitharaghunathan/presentations/blob/main/Stop%20Kubernetes'%20Revolving%20Door%3A%20A%20Hands-On%20Workshop%20to%20Secure%20a%20Kubernetes%20Cluster/Stop_Kubernetes_Revolving_Door__A_Hands-On__eKZYvgV.pdf)
-* KubeCon 2024 NA [Navigate Cross SIG Collaborations with SIG Docs](https://sched.co/1hox8) [link](https://youtu.be/C7-BM4b5Bgc)
-* KubeCon 2024 NA [Tutorial: Stop Kubernetes' Revolving Door: A Hands-on Tutorial to Secure a Kubernetes Cluster](https://sched.co/1i7rJ) [link](https://youtu.be/rTLcJwftMqs)
+* KubeCon 2024 NA [Navigate Cross SIG Collaborations with SIG Docs](https://sched.co/1hox8)
+    * Recording: [link](https://youtu.be/C7-BM4b5Bgc)
+* KubeCon 2024 NA [Tutorial: Stop Kubernetes' Revolving Door: A Hands-on Tutorial to Secure a Kubernetes Cluster](https://sched.co/1i7rJ)
+    * Recording: [link](https://youtu.be/rTLcJwftMqs)
+    * Hands-on tutorial: [link](https://github.com/cloudnativeessentials/kubecon-na-2024-stop-k8s-revolving-door)
 
 
 
