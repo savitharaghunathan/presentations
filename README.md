@@ -11,6 +11,10 @@
 * KubeCon 2023 EU [Nurturing Security Permaculture: Kubernetes SIG Security Update](https://youtu.be/kPdlHnfR4PE)
 * The Linux Foundation Member Summit 2023 [The “Secret Sauce” to Your Digital Transformation: Build a Learning Community!](https://github.com/savitharaghunathan/presentations/blob/main/The%20%E2%80%9CSecret%20Sauce%E2%80%9D%20to%20Your%20Digital%20Transformation%3A%20Build%20a%20Learning%20Community!/The%20%E2%80%9Csecret%20sauce%E2%80%9D%20to%20your%20digital%20transformation_%20build%20a%20learning%20community!%20(2)%20(1).pdf)
 * KubeCon 2023 NA [SIG Security: Unravelling the Kubernetes Security Audit Together](https://youtu.be/qTKEd8mcb1U)
+* DevConf US 2024 [Modernization 101: A Beginner's Guide to Application Modernization and Methodology](https://youtu.be/ic5WnbYVTto)
+* DevConf US 2024 [Stop Kubernetes' Revolving Door: A Hands-On Workshop to Secure a Kubernetes Cluster]
+* KubeCon 2024 NA [Navigate Cross SIG Collaborations with SIG Docs](https://sched.co/1hox8) [link](https://youtu.be/C7-BM4b5Bgc)
+* KubeCon 2024 NA [Tutorial: Stop Kubernetes' Revolving Door: A Hands-on Tutorial to Secure a Kubernetes Cluster](https://sched.co/1i7rJ) [link](https://youtu.be/rTLcJwftMqs)
 
 
 
