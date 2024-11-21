@@ -27,6 +27,7 @@
 * [Stickers on the laptop](https://anchor.fm/bartholomew-dobbyn-farrell/episodes/KubeCon-and-Stickers-with-Divya-Mohan-and-Savitha-Raghunathan-e1idd3p)
 * [KBE Insider - Episode 20](https://youtu.be/bti0Jo9fEE0)
 * [KBE Insider - Episode 24](https://youtu.be/Rgrbi3MIsCg)
+* [KU053: Migrate Legacy Applications to Kubernetes with Konveyor](https://packetpushers.net/podcasts/kubernetes-unpacked/ku053-migrate-legacy-applications-to-kubernetes-with-konveyor/)
 
 # Blogposts
 
