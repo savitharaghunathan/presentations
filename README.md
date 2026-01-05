@@ -18,8 +18,7 @@
 * KubeCon 2024 NA [Tutorial: Stop Kubernetes' Revolving Door: A Hands-on Tutorial to Secure a Kubernetes Cluster](https://sched.co/1i7rJ)
     * Recording: [link](https://youtu.be/rTLcJwftMqs)
     * Hands-on tutorial: [link](https://github.com/cloudnativeessentials/kubecon-na-2024-stop-k8s-revolving-door)
-
-
+* * KubeCon 2025 NA [Butterfly Effect: What Kubernetes SIG Security Has in Flight](https://youtu.be/q4ryxYhAenM?si=ksUd16ezIiyTnEuB) 
 
 # Talk shows & podcasts
 * [Kubernetes 1.22, with Savitha Raghunathan](https://kubernetespodcast.com/episode/157-kubernetes-1.22/)
