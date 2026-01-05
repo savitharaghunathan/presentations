@@ -33,11 +33,14 @@
 * [KBE Insider Detroit - Savitha Raghunathan, Red Hat](https://youtu.be/HKpQRcPuMrc)
 
 # Interviews
+* [Humans of Cloud Native: Savitha Raghunathan – From Curiosity to Community Leadership](https://www.cncf.io/humans-of-cloud-native/savitha-raghunathan/)
 * [Savitha Raghunathan, Red Hat & Christopher Nuland, Konveyor | KubeCon + CloudNativeCon NA 2022](https://youtu.be/3yRy-eR3rhg)
+
 # Blogposts
 
 * https://www.cncf.io/blog/2023/05/23/modernize-legacy-applications-to-kubernetes-at-scale/
 * https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/
 * https://www.konveyor.io/blog/modernize-petclinic-to-k8s-using-konveyor/
 * https://kubebyexample.com/community/blog/konveyor-kbe-and-kubernetes-community
-* https://www.konveyor.io/blog/one-year-cncf-sandbox-konveyor-reflective-journey/ 
+* https://www.konveyor.io/blog/one-year-cncf-sandbox-konveyor-reflective-journey/
+* https://konveyor.io/blog/2025/hints_generation/ 
