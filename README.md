@@ -18,7 +18,8 @@
 * KubeCon 2024 NA [Tutorial: Stop Kubernetes' Revolving Door: A Hands-on Tutorial to Secure a Kubernetes Cluster](https://sched.co/1i7rJ)
     * Recording: [link](https://youtu.be/rTLcJwftMqs)
     * Hands-on tutorial: [link](https://github.com/cloudnativeessentials/kubecon-na-2024-stop-k8s-revolving-door)
-* KubeCon 2025 NA [Butterfly Effect: What Kubernetes SIG Security Has in Flight](https://youtu.be/q4ryxYhAenM?si=ksUd16ezIiyTnEuB) 
+* KubeCon 2025 NA [Butterfly Effect: What Kubernetes SIG Security Has in Flight](https://youtu.be/q4ryxYhAenM?si=ksUd16ezIiyTnEuB)
+* KubeCon 2026 EU [AI-Powered Cloud Native Modernization: From Real Challenges to Concrete Solutions](https://sched.co/2CW3Y)
 
 # Talk shows & podcasts
 * [Kubernetes 1.22, with Savitha Raghunathan](https://kubernetespodcast.com/episode/157-kubernetes-1.22/)
@@ -35,6 +36,7 @@
 # Interviews
 * [Humans of Cloud Native: Savitha Raghunathan – From Curiosity to Community Leadership](https://www.cncf.io/humans-of-cloud-native/savitha-raghunathan/)
 * [Savitha Raghunathan, Red Hat & Christopher Nuland, Konveyor | KubeCon + CloudNativeCon NA 2022](https://youtu.be/3yRy-eR3rhg)
+* [Savitha Talks About Kubernetes](https://blogs.mathworks.com/community/2020/11/02/questions-for-savitha-raghunathan/)
 
 # Blogposts
 
@@ -43,4 +45,5 @@
 * https://www.konveyor.io/blog/modernize-petclinic-to-k8s-using-konveyor/
 * https://kubebyexample.com/community/blog/konveyor-kbe-and-kubernetes-community
 * https://www.konveyor.io/blog/one-year-cncf-sandbox-konveyor-reflective-journey/
-* https://konveyor.io/blog/2025/hints_generation/ 
+* https://konveyor.io/blog/2025/hints_generation/
+* https://konveyor.io/blog/2026/migrating-ingress-nginx-go-to-gateway-api-konveyor-kai/
