@@ -19,7 +19,7 @@
     * Recording: [link](https://youtu.be/rTLcJwftMqs)
     * Hands-on tutorial: [link](https://github.com/cloudnativeessentials/kubecon-na-2024-stop-k8s-revolving-door)
 * KubeCon 2025 NA [Butterfly Effect: What Kubernetes SIG Security Has in Flight](https://youtu.be/q4ryxYhAenM?si=ksUd16ezIiyTnEuB)
-* KubeCon 2026 EU [AI-Powered Cloud Native Modernization: From Real Challenges to Concrete Solutions](https://sched.co/2CW3Y)
+* KubeCon 2026 EU [AI-Powered Cloud Native Modernization: From Real Challenges to Concrete Solutions](https://youtu.be/ztOeqNGaL3g?si=qWphFLvGr6O_NN3-)
 
 # Talk shows & podcasts
 * [Kubernetes 1.22, with Savitha Raghunathan](https://kubernetespodcast.com/episode/157-kubernetes-1.22/)
